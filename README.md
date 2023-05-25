@@ -10,7 +10,7 @@
 - ✏https://www.linkedin.com/in/miji-park-7b9538278/<br>
 ----
 
-<div align="center"> 📚Tech Stack📚 </div><br><br>
+<div align="center"> 📚Tech Stack📚 </div><br>
 <div align="center"> ✨Platforms & Languages✨ </div><br>
 
 <div align="center">
