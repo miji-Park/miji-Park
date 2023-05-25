@@ -2,10 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MIJI%20GitHub!&fontSize=90)
 
-🎈Back-end Developer
-✉beigeremon@gmail.com 
-✍https://velog.io/@beigeremon
-✏https://www.linkedin.com/in/miji-park-7b9538278/
+🎈Back-end Developer<br>
+✉beigeremon@gmail.com <br>
+✍https://velog.io/@beigeremon<br>
+✏https://www.linkedin.com/in/miji-park-7b9538278/<br>
 ----
 
 <div align="center"> 📚Tech Stack📚 </div><br><br>
